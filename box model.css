@@ -1,0 +1,35 @@
+.cd1{
+    border: 1px solid;
+    border-radius: 300px;
+    margin: 50px;
+    background-color: rebeccapurple;
+    width: 400px;
+}
+.cd2{
+    border: 1px solid;
+    border-radius: 300px;
+    margin: 50px;
+    background-color: blue;
+    width: 300px;
+}
+.cd3{
+    border: 1px solid;
+    border-radius: 300px;
+    margin:50px;
+    background-color: bisque;
+    width:200px;
+}
+.cd4{
+    border: 1px solid;
+    border-radius: 300px;
+    margin: 50px;
+    background-color: brown;
+    width: 100px;
+}
+.cd5{
+    border: 1px solid;
+    border-radius: 300px;
+    margin: 50px;
+    background-color: chartreuse;
+    width: 0px;
+}
